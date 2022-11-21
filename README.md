@@ -1,11 +1,11 @@
 ## 👋 Olá! Eu sou Larissa Fernanda
 
 
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/larissa-fernanda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissa-fernanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-fernanda&layout=compact&theme=dracula&nclude_all_commits=true&count_private=true"/>
-</div>
+</div> -->
 
 ##
   
