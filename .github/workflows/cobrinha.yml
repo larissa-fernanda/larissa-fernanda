@@ -17,7 +17,7 @@ jobs:
           github_user_name: larissa-fernanda
 
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#027F26&color_dots=#595E66,#F06292,#E91E63,#C2185B,#880E4
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#5075CA&color_dots=#3D294C,#F06292,#E91E63,#C2185B,#880E4
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
