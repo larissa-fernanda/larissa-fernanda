@@ -15,8 +15,8 @@ jobs:
         id: snake-gif
         with:
           github_user_name: larissa-fernanda
-          palete: 0d1117
-          color_dots: F8BBD0,F06292,E91E63,C2185B,880E4F
+          palete: github-dark
+          color_dots: '#F8BBD0,#F06292,#E91E63,#C2185B,#880E4F'
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
