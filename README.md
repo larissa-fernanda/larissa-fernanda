@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Larissa Fernanda
 
 ###  Estudante de Banco de Dados na Fatec/SJC e estagiária em Data Engineering na Quero Educação
-
+<!--
 ##
 
 <div align="center">
@@ -11,11 +11,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-fernanda&layout=compact&theme=omni&include_all_commits=true&count_private=true"/>
 </div>
 
-<!--##
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div> -->
+</div>
 
 ##
   
@@ -28,7 +28,7 @@
 [![Numero por Extenso Card](https://github-readme-stats.vercel.app/api/pin/?username=larissa-fernanda&repo=numeros-por-extenso&theme=omni)](https://github.com/larissa-fernanda/numeros-por-extenso)
   
   </div>
-  
+  -->
 ##
   
   <div align="center">
