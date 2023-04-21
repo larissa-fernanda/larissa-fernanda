@@ -23,7 +23,9 @@
   
 <div align="center">
     
-[![API Card](https://github-readme-stats.vercel.app/api/pin/?username=pontopython&repo=api-bd1&theme=omni)](https://github.com/pontopython/api-bd1) 
+[![API-1 Card](https://github-readme-stats.vercel.app/api/pin/?username=pontopython&repo=api-bd1&theme=omni)](https://github.com/pontopython/api-bd1) 
+  
+[![API-2 Card](https://github-readme-stats.vercel.app/api/pin/?username=codecatss&repo=API-BD2&theme=omni)](https://github.com/codecatss/API-BD2)
   
 [![Numero por Extenso Card](https://github-readme-stats.vercel.app/api/pin/?username=larissa-fernanda&repo=numeros-por-extenso&theme=omni)](https://github.com/larissa-fernanda/numeros-por-extenso)
   
