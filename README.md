@@ -3,14 +3,14 @@
 ###  Estudante de Banco de Dados na Fatec/SJC e estagiária em Data Engineering na Quero Educação
 
 ##
-<!-- 
+
 <div align="center">
   <a href="https://github.com/larissa-fernanda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissa-fernanda&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/> 
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-fernanda&layout=compact&theme=omni&include_all_commits=true&count_private=true"/>
 </div>
--->
+
 
 <!--  
 <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@
 ##
   
 ### 📂 Repositórios Relevantes
-<!--
+
 <div align="center">
     
 [![API-1 Card](https://github-readme-stats.vercel.app/api/pin/?username=pontopython&repo=api-bd1&theme=omni)](https://github.com/pontopython/api-bd1) 
@@ -28,7 +28,7 @@
 [![API-2 Card](https://github-readme-stats.vercel.app/api/pin/?username=codecatss&repo=API-BD2&theme=omni)](https://github.com/codecatss/API-BD2)
   
   </div>
---> 
+
 ##
   
   <div align="center">
