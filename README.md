@@ -26,6 +26,8 @@
 [![API-1 Card](https://github-readme-stats.vercel.app/api/pin/?username=pontopython&repo=api-bd1&theme=omni)](https://github.com/pontopython/api-bd1) 
   
 [![API-2 Card](https://github-readme-stats.vercel.app/api/pin/?username=codecatss&repo=API-BD2&theme=omni)](https://github.com/codecatss/API-BD2)
+
+[![API-3 Card](https://github-readme-stats.vercel.app/api/pin/?username=codecatss&repo=API-BD3&theme=omni)](https://github.com/codecatss/API-BD3)
   
   </div>
 
