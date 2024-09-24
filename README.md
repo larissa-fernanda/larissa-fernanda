@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Larissa Fernanda
 
-###  Estudante de Banco de Dados na Fatec/SJC e Data Engineer na Quero Educação
+###  Estudante de Banco de Dados na Fatec/SJC e Data Engineer
 
 ##
 
